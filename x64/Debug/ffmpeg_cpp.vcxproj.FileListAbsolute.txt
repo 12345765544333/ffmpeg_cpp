@@ -1,0 +1,7 @@
+E:\ffmpeg_qt\ffmpeg_cpp\x64\Debug\ffmpeg_cpp.vcxproj.CopyComplete
+E:\ffmpeg_qt\ffmpeg_cpp\x64\Debug\ffmpeg_cpp.exe
+E:\ffmpeg_qt\ffmpeg_cpp\x64\Debug\avutil-58.dll
+E:\ffmpeg_qt\ffmpeg_cpp\x64\Debug\swscale-7.dll
+E:\ffmpeg_qt\ffmpeg_cpp\x64\Debug\avformat-60.dll
+E:\ffmpeg_qt\ffmpeg_cpp\x64\Debug\avcodec-60.dll
+E:\ffmpeg_qt\ffmpeg_cpp\x64\Debug\swresample-4.dll

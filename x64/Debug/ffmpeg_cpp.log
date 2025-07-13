@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\ffmpeg_qt\ffmpeg_cpp\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vcpkg\installed\x64-windows\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ffmpeg_cpp.vcxproj -> E:\ffmpeg_qt\ffmpeg_cpp\x64\Debug\ffmpeg_cpp.exe
